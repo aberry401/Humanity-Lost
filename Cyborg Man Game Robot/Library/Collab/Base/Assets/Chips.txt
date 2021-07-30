@@ -1,0 +1,1 @@
+lightningGun,ARM,0,0.2,lightning,lightningGun

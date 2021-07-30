@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 1b725b3e9aa185647b4c218e863ac3b3
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: HumanModel(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder1
+      parentName: HumanModel(Clone)
+      position: {x: -0.001084358, y: 0.01421201, z: 0.0021392973}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform25
+      parentName: pCylinder1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface3
+      parentName: HumanModel(Clone)
+      position: {x: -0.011149877, y: 0.031541537, z: 0.0030089268}
+      rotation: {x: 0, y: -0, z: -0.19168329, w: 0.9814568}
+      scale: {x: 0.2666667, y: 1.48386, z: 0.35555556}
+    - name: transform2
+      parentName: polySurface3
+      position: {x: -1.00700695e-17, y: -0.009915138, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface4
+      parentName: HumanModel(Clone)
+      position: {x: 0.008582742, y: 0.031279877, z: 0.0028312232}
+      rotation: {x: -0.023062814, y: -0.01385499, z: -0.13655114, w: 0.99026763}
+      scale: {x: 0.2666667, y: 1.48386, z: 0.35555556}
+    - name: transform17
+      parentName: polySurface4
+      position: {x: -0.07653083, y: -0.014145175, z: 0.00032798937}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface1
+      parentName: HumanModel(Clone)
+      position: {x: -0.0058228704, y: 0.0033031427, z: 0.002195278}
+      rotation: {x: 0.013510038, y: -0.023719797, z: -0.082763076, w: 0.9961953}
+      scale: {x: 0.45555553, y: 1, z: 1}
+    - name: transform20
+      parentName: polySurface1
+      position: {x: -2.1047751e-18, y: -0.01365646, z: -0.0022627094}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface2
+      parentName: HumanModel(Clone)
+      position: {x: 0.0019115924, y: 0.0031027996, z: 0.0026216204}
+      rotation: {x: 0.004104377, y: 0.049839392, z: -0.101410106, w: 0.993587}
+      scale: {x: 0.45555553, y: 1, z: 1}
+    - name: transform23
+      parentName: polySurface2
+      position: {x: -0.054340925, y: -0.018585123, z: -0.0023792908}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pSphere1
+      parentName: HumanModel(Clone)
+      position: {x: -0.001048236, y: 0.0029620624, z: 0.002322055}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.75940907, y: 0.46271595, z: 0.5282265}
+    - name: transform26
+      parentName: pSphere1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pSphere2
+      parentName: HumanModel(Clone)
+      position: {x: -0.010073877, y: 0.030214662, z: 0.0030471717}
+      rotation: {x: 0, y: 0, z: 0.37061605, w: 0.92878616}
+      scale: {x: 0.3638242, y: 0.35965583, z: 0.3053731}
+    - name: polySurface5 1
+      parentName: pSphere2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform14
+      parentName: polySurface5 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface6
+      parentName: pSphere2
+      position: {x: 0.03665695, y: -0.0343837, z: -1.817814e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform15
+      parentName: polySurface6
+      position: {x: -0.040283166, y: 0.03868012, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform1
+      parentName: pSphere2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube1
+      parentName: HumanModel(Clone)
+      position: {x: -0.023469502, y: 0.0006076162, z: -0.001793235}
+      rotation: {x: -0.36120483, y: 0.4870878, z: 0.4680111, w: 0.64283913}
+      scale: {x: 0.49506953, y: 0.13013807, z: 0.5252415}
+    - name: transform4
+      parentName: pCube1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pSphere3
+      parentName: HumanModel(Clone)
+      position: {x: -0.02256896, y: 0.0031064663, z: -0.0011112418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.12683941, y: 0.17387043, z: 0.17387043}
+    - name: transform3
+      parentName: pSphere3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube2
+      parentName: HumanModel(Clone)
+      position: {x: 0.021300571, y: 0.0006076162, z: -0.001793235}
+      rotation: {x: -0.36120483, y: 0.4870878, z: 0.4680111, w: 0.64283913}
+      scale: {x: 0.49506953, y: 0.13013807, z: 0.5252415}
+    - name: transform6
+      parentName: pCube2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pSphere4
+      parentName: HumanModel(Clone)
+      position: {x: 0.022201113, y: 0.0031064663, z: -0.0011112418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.12683941, y: 0.17387043, z: 0.17387043}
+    - name: transform5
+      parentName: pSphere4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube3
+      parentName: HumanModel(Clone)
+      position: {x: -0.017931787, y: 0.0123635195, z: -0.000027663747}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface9
+      parentName: pCube3
+      position: {x: 0.017931787, y: -0.0123635195, z: 0.000027663747}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface12 1
+      parentName: polySurface9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform12
+      parentName: polySurface12 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface13
+      parentName: polySurface9
+      position: {x: 0.020284459, y: 0.001165233, z: 0.00044293955}
+      rotation: {x: -0.0066120215, y: 0, z: -0, w: 0.9999782}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform16
+      parentName: polySurface13
+      position: {x: -0.023099149, y: -0.0019723664, z: 0.0012147705}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform9
+      parentName: polySurface9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface10
+      parentName: pCube3
+      position: {x: 0.017931787, y: -0.0123635195, z: 0.000027663747}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform11
+      parentName: polySurface10
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface11
+      parentName: pCube3
+      position: {x: 0.017931787, y: -0.0123635195, z: 0.000027663747}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform10
+      parentName: polySurface11
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform8
+      parentName: pCube3
+      position: {x: 0.017931787, y: -0.0123635195, z: 0.000027663747}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube4
+      parentName: HumanModel(Clone)
+      position: {x: 0.020694096, y: -0.0014481965, z: -0.0006601052}
+      rotation: {x: 0, y: 0, z: 0.2644494, w: 0.9643996}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface8
+      parentName: pCube4
+      position: {x: 0.0014807393, y: 0.003748514, z: 0.00117431}
+      rotation: {x: 0, y: -0, z: -0.07064777, w: 0.9975013}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform27
+      parentName: polySurface8
+      position: {x: -0.022446446, y: -0.003111135, z: 0.0011264415}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform7
+      parentName: pCube4
+      position: {x: -0.020896547, y: 0.00074200844, z: 0.0023007516}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface12
+      parentName: HumanModel(Clone)
+      position: {x: -0.017692853, y: 0.01248605, z: 0.0005648902}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform13
+      parentName: polySurface12
+      position: {x: 0.017692853, y: -0.01248605, z: -0.0005648902}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface5
+      parentName: HumanModel(Clone)
+      position: {x: -0.010279353, y: 0.030777412, z: 0.003161919}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform28
+      parentName: polySurface5
+      position: {x: 0.010279353, y: -0.030777412, z: -0.003161919}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface14
+      parentName: HumanModel(Clone)
+      position: {x: 0.008562068, y: 0.031899188, z: 0.003004262}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform29
+      parentName: polySurface14
+      position: {x: -0.008562068, y: -0.031899188, z: -0.003004262}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pSphere5
+      parentName: HumanModel(Clone)
+      position: {x: -0.012981318, y: -0.0466422, z: 0.0039027466}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.17346612, y: 0.17346612, z: 0.20030081}
+    - name: transform19
+      parentName: pSphere5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pSphere6
+      parentName: HumanModel(Clone)
+      position: {x: -0.012993659, y: -0.048247986, z: 0.0014949873}
+      rotation: {x: -0.01776139, y: 0, z: -0, w: 0.9998423}
+      scale: {x: 0.29057094, y: 0.12487631, z: 0.48865664}
+    - name: transform18
+      parentName: pSphere6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pSphere7
+      parentName: HumanModel(Clone)
+      position: {x: 0.010907122, y: -0.04892699, z: 0.0014949873}
+      rotation: {x: -0.01776139, y: 0, z: -0, w: 0.9998423}
+      scale: {x: 0.29057094, y: 0.12487631, z: 0.48865664}
+    - name: transform22
+      parentName: pSphere7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pSphere8
+      parentName: HumanModel(Clone)
+      position: {x: 0.010919464, y: -0.047321204, z: 0.0039027466}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.17346612, y: 0.17346612, z: 0.20030081}
+    - name: transform21
+      parentName: pSphere8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface15
+      parentName: HumanModel(Clone)
+      position: {x: -0.0057430095, y: 0.0010718721, z: 0.0022552689}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform30
+      parentName: polySurface15
+      position: {x: 0.0057430095, y: -0.0010718721, z: -0.0022552689}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface16
+      parentName: HumanModel(Clone)
+      position: {x: 0.003975871, y: 0.00084894476, z: 0.0020358535}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform31
+      parentName: polySurface16
+      position: {x: -0.0039716465, y: -0.00040437453, z: -0.0020358535}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pSphere9
+      parentName: HumanModel(Clone)
+      position: {x: -0.00075836293, y: 0.043316413, z: 0.0031867314}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.49324694, y: 0.5978722, z: 0.57141745}
+    - name: transform24
+      parentName: pSphere9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder2
+      parentName: HumanModel(Clone)
+      position: {x: -0.0010782162, y: 0.026753573, z: 0.0024134687}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform32
+      parentName: pCylinder2
+      position: {x: 0.0010782162, y: -0.026753573, z: -0.0024134687}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder3
+      parentName: HumanModel(Clone)
+      position: {x: -0.0014073444, y: -0.000054521228, z: 0.0022179326}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.4925239, y: 1.4925239, z: 1.4925239}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

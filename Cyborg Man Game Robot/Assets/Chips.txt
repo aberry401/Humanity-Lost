@@ -1,0 +1,4 @@
+acidGun,ARM,0,3,bubbles,acidGun
+Scattershot,ARM,0,20,NOPROJ,NOWEAP
+Gun,ARM,175,10,bullet,BeamGun
+hpup,CHEST,0,0,NOPROJ,NOWEAP
